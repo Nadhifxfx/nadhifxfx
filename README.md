@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## HELLO WORLD 👋
 
 # 💻 Tech Stack:
