@@ -1,4 +1,4 @@
-Hi World 👋, I'm Nadhif Fathur Rahman</h1>
+<h3 align="center">Hi World 👋, I'm Nadhif Fathur Rahman</h1>
 <h3 align="center">Informatics Student | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
