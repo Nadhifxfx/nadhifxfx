@@ -6,15 +6,22 @@
   <img src="https://img.shields.io/github/followers/Nadhifxfx?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/Nadhifxfx?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
 </p>
+<img src="https://img.shields.io/badge/Currently%20Learning-OpenGL%20%26%20AI-blue" />
+  <img src="https://img.shields.io/badge/Focus-Creative%20Coding%20%26%20Web%20Dev-green" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding animation"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 I'm currently studying **Informatics Engineering**  
-🔍 Interested in **AI, Image Processing, and Creative Coding**  
-💡 I enjoy building tools that solve real-world problems  
-📹 I also create educational & tech content on [YouTube](https://www.youtube.com/@NDcomps10)
+🎓 Informatics Engineering student with a passion for building solutions that matter  
+💡 Interested in artificial intelligence, image processing, and gamified learning  
+🎨 I love turning ideas into interactive digital experiences  
+🎥 Also a YouTube creator at [@NDcomps10](https://www.youtube.com/@NDcomps10)
 
 ---
 
@@ -28,11 +35,6 @@
 🛠️ Tools & IDEs:    VS Code, Visual Studio, GitHub, XAMPP  
 ```
 
-🎓 **Informatics Student** | 💻 **Tech Enthusiast** | 🌱 **Lifelong Learner ** 
-Welcome to my GitHub profile! I'm passionate about building tech-based solutions, experimenting with machine learning and computer vision, and transforming creative ideas into real-world applications.
-
----
-
 ### 🚀 What I Do
 
 - 🔧 Develop applications using Python, JavaScript, and C++
@@ -40,26 +42,6 @@ Welcome to my GitHub profile! I'm passionate about building tech-based solutions
 - 🌐 Build modern web apps with React, Tailwind CSS, and APIs
 - 🎮 Create interactive software using OpenGL and graphics programming
 
----
-
-### 📂 Featured Projects
-
-- **TextGen Tunarungu**  
-  A gamified Quran learning tool designed to assist deaf users in learning Hijaiyah letters.
-
-- **Image Processing Toolbox**  
-  A collection of image transformation and histogram-based enhancement methods built with Python.
-
-- **YouTube Portfolio Integrator**  
-  A portfolio website integrated with the YouTube API to dynamically showcase my latest videos.
-
----
-
-### 🛠️ Tools & Technologies
-
-- **Languages**: Python, C++, JavaScript  
-- **Frameworks & Tools**: Google Colab, Visual Studio Code, RapidMiner, Visual Studio  
-- **Technologies**: OpenGL, React.js, Tailwind CSS, Git & GitHub
 
 ---
 
