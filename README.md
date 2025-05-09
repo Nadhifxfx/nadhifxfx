@@ -1,5 +1,4 @@
 <h1 align="center">Hello World 👋, I'm Nadhif Fathur Rahman</h1>
-<h3 align="center">Informatics Student | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nadhifxfx&label=Profile%20views&color=0e75b6&style=flat" alt="Nadhifxfx" />
@@ -7,8 +6,7 @@
   <img src="https://img.shields.io/github/stars/Nadhifxfx?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
 </p>
 <p align="center">
-  
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndhb3VrcXZnNmJsYjZxNjlkbTdkeXlvdmV6YzZ3cjQ5OHNiM2VyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGeqYyfLc1ipfU2fgS/giphy.gif" width="300" alt="creative design animation"/>
+
 </p>
 
 ---
