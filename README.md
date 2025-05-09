@@ -1,5 +1,35 @@
 ### 👋 Hi, I'm Nadhif Fathur Rahman!
 
+<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h3 align="center">Informatics Student | Tech Enthusiast | Lifelong Learner</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/yourusername?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 I'm currently studying **Informatics Engineering**  
+🔍 Interested in **AI, Image Processing, and Creative Coding**  
+💡 I enjoy building tools that solve real-world problems  
+📹 I also create educational & tech content on [YouTube](https://www.youtube.com/@NDcomps10)
+
+---
+
+## 🛠️ Tech Stack
+
+```yaml
+💻 Languages:       Python, C++, JavaScript  
+🌐 Frontend:        HTML, CSS, Tailwind, React.js  
+🧠 AI & Data:       RapidMiner, Google Colab, NumPy, OpenCV  
+🎮 Graphics:        OpenGL, GLSL  
+🛠️ Tools & IDEs:    VS Code, Visual Studio, GitHub, XAMPP  
+```
+
 🎓 **Informatics Student** | 💻 **Tech Enthusiast** | 🌱 **Lifelong Learner ** 
 Welcome to my GitHub profile! I'm passionate about building tech-based solutions, experimenting with machine learning and computer vision, and transforming creative ideas into real-world applications.
 
@@ -41,12 +71,6 @@ Welcome to my GitHub profile! I'm passionate about building tech-based solutions
 - 📧 Email: [yourname@example.com]  
 
 ---
-Thanks for stopping by! Feel free to explore my repositories and connect with me 🙌
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nadhifxfx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nadhifxfx&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadhifxfx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nadhifxfx&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
