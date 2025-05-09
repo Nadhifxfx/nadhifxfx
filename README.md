@@ -4,11 +4,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Currently%20Learning-OpenGL%20%26%20AI-blue" />
   <img src="https://img.shields.io/badge/Focus-Creative%20Coding%20%26%20Web%20Dev-green" />
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nadhifxfx&label=Profile%20views&color=0e75b6&style=flat" alt="Nadhifxfx" />
   <img src="https://img.shields.io/github/followers/Nadhifxfx?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/Nadhifxfx?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
+</p>
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding animation"/>
 </p>
 
