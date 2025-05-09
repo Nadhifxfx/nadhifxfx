@@ -1,4 +1,4 @@
-### 👋 Hi, I'mNadhif Fathur Rahman!
+### 👋 Hi, I'm Nadhif Fathur Rahman!
 
 🎓 **Informatics Student** | 💻 **Tech Enthusiast** | 🌱 **Lifelong Learner ** 
 Welcome to my GitHub profile! I'm passionate about building tech-based solutions, experimenting with machine learning and computer vision, and transforming creative ideas into real-world applications.
