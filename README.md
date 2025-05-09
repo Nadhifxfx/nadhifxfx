@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7317b835-044d-469a-a0ce-48e6e56c18dd)![image](https://github.com/user-attachments/assets/d64fea36-4545-4054-9f5e-5ed1b76efd45)<h1 align="center">Hi World 👋, I'm Nadhif Fathur Rahman</h1>
+Hi World 👋, I'm Nadhif Fathur Rahman</h1>
 <h3 align="center">Informatics Student | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
