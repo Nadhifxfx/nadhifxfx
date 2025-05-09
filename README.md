@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/stars/Nadhifxfx?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding animation"/>
+   <img src="https://media.giphy.com/media/3o7TKu8RvQuomFfUUU/giphy.gif" width="700" alt="creative design animation"/>
 </p>
 
 ---
