@@ -1,12 +1,10 @@
-### 👋 Hi, I'm Nadhif Fathur Rahman!
-
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Nadhif Fathur Rahman</h1>
 <h3 align="center">Informatics Student | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/yourusername?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=Nadhifxfx&label=Profile%20views&color=0e75b6&style=flat" alt="Nadhifxfx" />
+  <img src="https://img.shields.io/github/followers/Nadhifxfx?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Nadhifxfx?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
 </p>
 
 ---
