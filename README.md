@@ -1,4 +1,4 @@
-<h1 align="center">Hi World 👋, I'm Nadhif Fathur Rahman</h1>
+<h1 align="center">Hello World 👋, I'm Nadhif Fathur Rahman</h1>
 <h3 align="center">Informatics Student | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/github/stars/Nadhifxfx?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
 </p>
 <p align="center">
-   <img src="https://media.giphy.com/media/3o7TKu8RvQuomFfUUU/giphy.gif" width="500" alt="creative design animation"/>
+  
+   <img src="[https://media.giphy.com/media/3o7TKu8RvQuomFfUUU/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZrdzdodWZrM2l0MTdiaDhob3RvbDI3MXc1OXU3dXg4eXEzZ3E3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RGeqYyfLc1ipfU2fgS/giphy.gif)" width="500" alt="creative design animation"/>
 </p>
 
 ---
