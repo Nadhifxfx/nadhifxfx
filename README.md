@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   
-   <img src= <img src="https://media.giphy.com/media/3o7TKu8RvQuomFfUUU/giphy.gif" width="300" alt="creative design animation"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndhb3VrcXZnNmJsYjZxNjlkbTdkeXlvdmV6YzZ3cjQ5OHNiM2VyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGeqYyfLc1ipfU2fgS/giphy.gif" width="300" alt="creative design animation"/>
 </p>
 
 ---
