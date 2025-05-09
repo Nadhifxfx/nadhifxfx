@@ -2,7 +2,7 @@
 <h3 align="center">Informatics Student | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nadhifxfx&label=Profile%20views&color=0e75b6&style=flat" alt="Nadhifxfx" 
+  <img src="https://komarev.com/ghpvc/?username=Nadhifxfx&label=Profile%20views&color=0e75b6&style=flat" alt="Nadhifxfx" />
   <img src="https://img.shields.io/github/followers/Nadhifxfx?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/Nadhifxfx?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
 </p>
