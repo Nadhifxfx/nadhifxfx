@@ -1,10 +1,10 @@
-<h1 align="center">Hi there 👋, I'm Nadhif Fathur Rahman</h1>
+![image](https://github.com/user-attachments/assets/7317b835-044d-469a-a0ce-48e6e56c18dd)![image](https://github.com/user-attachments/assets/d64fea36-4545-4054-9f5e-5ed1b76efd45)<h1 align="center">Hi World 👋, I'm Nadhif Fathur Rahman</h1>
 <h3 align="center">Informatics Student | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Learning-OpenGL%20%26%20AI-blue" />
-  <img src="https://img.shields.io/badge/Focus-Creative%20Coding%20%26%20Web%20Dev-green" />
-  <img src="https://komarev.com/ghpvc/?username=Nadhifxfx&label=Profile%20views&color=0e75b6&style=flat" alt="Nadhifxfx" />
+  <img src="https://img.shields.io/badge/Currently%20Learning-OpenGL%20%26%20AI-blue" /<br>
+  <img src="https://img.shields.io/badge/Focus-Creative%20Coding%20%26%20Web%20Dev-green" /<br>
+  <img src="https://komarev.com/ghpvc/?username=Nadhifxfx&label=Profile%20views&color=0e75b6&style=flat" alt="Nadhifxfx" /<br>
   <img src="https://img.shields.io/github/followers/Nadhifxfx?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/Nadhifxfx?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
 </p>
