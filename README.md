@@ -39,21 +39,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nadhifxfx&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
----
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Nadhifxfx/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Nadhifxfx">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Nadhifxfx&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
