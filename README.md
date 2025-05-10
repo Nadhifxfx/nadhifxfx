@@ -39,11 +39,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nadhifxfx&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nadhifxfx/Nadhifxfx/output/pacman-contribution-graph-dark.svg">
