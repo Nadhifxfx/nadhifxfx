@@ -19,16 +19,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-```yaml
-💻 Languages:       Python, C++, JavaScript  
-🌐 Frontend:        HTML, CSS, Tailwind, React.js  
-🧠 AI & Data:       RapidMiner, Google Colab, NumPy, OpenCV  
-🎮 Graphics:        OpenGL, GLSL  
-🛠️ Tools & IDEs:    VS Code, Visual Studio, GitHub, XAMPP  
-```
-
 ### 🚀 What I Do
 
 - 🔧 Develop applications using Python, JavaScript, and C++
@@ -50,4 +40,31 @@
 ![](https://github-profile-trophy.vercel.app/?username=Nadhifxfx&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ---
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Nadhifxfx/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Nadhifxfx">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Nadhifxfx&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nadhifxfx/Nadhifxfx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nadhifxfx/Nadhifxfx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nadhifxfx/Nadhifxfx/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 [![](https://visitcount.itsvg.in/api?id=Nadhifxfx&icon=2&color=0)](https://visitcount.itsvg.in)
