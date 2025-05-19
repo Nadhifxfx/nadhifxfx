@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/github/stars/Nadhifxfx?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
 </p>
 <p align="center">
-
 </p>
 
 ---
