@@ -30,8 +30,8 @@
 
 ### 📬 Let's Connect
 
-- 🌐 Portfolio: (https://nadhifxfx.github.io/Website-Personal/)
-- 📧 Contact: (https://lynk.id/nadhifxfx)
+- 🌐 Portfolio: https://nadhifxfx.github.io/Website-Personal/
+- 📧 Contact: https://lynk.id/nadhifxfx
 
 ---
 
