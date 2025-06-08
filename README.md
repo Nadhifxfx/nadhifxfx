@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Nadhif Fathur Rahman</h1>
-<p align="center"><strong><span style="font-size: 18px;">🧠 Not just visuals – a way of thinking.</span></strong></p>
+<p align="center"><strong><span style="font-size: 18px;">"Not just visuals – a way of thinking"</span></strong></p>
 
 
 
@@ -25,7 +25,7 @@
 ### 🚀 What I Do
 
 - 🔧 Develop applications using Python, JavaScript, and C++
-- 🧠 Explore machine learning, AI, and image processing
+- 🤖 Explore machine learning, AI, and image processing
 - 🌐 Build modern web apps with React, Tailwind CSS, and APIs
 - 🎮 Create interactive software using OpenGL and graphics programming
 
