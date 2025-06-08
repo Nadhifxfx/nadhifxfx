@@ -1,5 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Nadhif Fathur Rahman</h1>
-<p align="center"><strong>"Not just visuals – a way of thinking."</strong></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=7DF7FF&center=true&vCenter=true&width=600&lines=🧠+Not+just+visuals+–+a+way+of+thinking." alt="Typing SVG" />
+</p>
 
 
 <p align="center">
