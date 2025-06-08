@@ -1,7 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Nadhif Fathur Rahman</h1>
-🧠 Not just visuals – a way of thinking.
-⚡️ Strive for more.
-🍀 Created by the vision of believity.
+<p 🧠 Not just visuals – a way of thinking. </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nadhifxfx&label=Profile%20views&color=0e75b6&style=flat" alt="Nadhifxfx" />
@@ -15,8 +13,9 @@
 
 ## 🚀 About Me
 
-🎓 Informatics Engineering student with a passion for building solutions that matter 
-💡 Interested in artificial intelligence, image processing, and gamified learning  
+🎓 Informatics Engineering 
+⚡️ Strive for more
+💡 Created by the vision of believity
 🎨 I love turning ideas into interactive digital experiences  
 
 ---
@@ -39,21 +38,13 @@
 ---
 
 ## 📊 GitHub Stats:
-
-<!-- Stats dan Trophy -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadhifxfx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
-  <img src="https://github-profile-trophy.vercel.app/?username=nadhifxfx&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
-</p>
-
-<!-- Streak -->
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nadhifxfx&theme=tokyonight&hide_border=true" />
-</p>
-
 <!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadhifxfx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 60%;" />
+</p>
+<!-- Stats dan Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nadhifxfx&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
 </p>
 
 <picture>
