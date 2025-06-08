@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Nadhif Fathur Rahman</h1>
-<p align="center">🧠 Not just visuals – a way of thinking.</p>
+<p align="center"><strong>"Not just visuals – a way of thinking."</strong></p>
 
 
 <p align="center">
