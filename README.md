@@ -14,10 +14,10 @@
 
 ## 🚀 About Me
 
-🎓 Informatics Engineering 
-⚡️ Strive for more
-💡 Created by the vision of believity
-🎨 I love turning ideas into interactive digital experiences  
+🎓 Informatics Engineering<br>
+⚡️ Strive for more<br>
+💡 Created by the vision of believity<br>
+🎨 I love turning ideas into interactive digital experiences <br>
 
 ---
 
@@ -41,7 +41,7 @@
 ## 📊 GitHub Stats:
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadhifxfx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 60%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadhifxfx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 30%;" />
 </p>
 <!-- Stats dan Trophy -->
 <p align="center">
