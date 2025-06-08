@@ -1,5 +1,6 @@
 <h1 align="center">Hello World 👋, I'm Nadhif Fathur Rahman</h1>
-<p 🧠 Not just visuals – a way of thinking. </p>
+<p align="center">🧠 Not just visuals – a way of thinking.</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nadhifxfx&label=Profile%20views&color=0e75b6&style=flat" alt="Nadhifxfx" />
