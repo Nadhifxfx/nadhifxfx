@@ -50,9 +50,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=Website-ND10&theme=tokyonight" />
 </a> 
   
-🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3
-✨ **Features:** Responsive layout, Clean code structure 
-
+<b>✨ **Features:** Responsive layout, Clean code structure </b><br/>
 <td width="50%">
 
 ### 🎯 Project Two
@@ -63,8 +61,6 @@
   
 🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3
 ✨ **Features:** Responsive layout, Clean code structure 
-
-<td width="50%">
 
 </td>
 </tr>
