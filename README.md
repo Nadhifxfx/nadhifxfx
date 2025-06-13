@@ -45,10 +45,6 @@
 <td width="50%">
 
 ### 🎯 Project One
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00bfff&height=2" />
-</p>
-
 <div align="center">
 <a href="https://github.com/nadhifxfx/Website-ND10/" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=Website-ND10&theme=tokyonight" />
@@ -58,7 +54,6 @@
 ✨ **Features:** Responsive layout, Clean code structure <br>
 
 </td>
-<td width="50%">
 
 ### 🎯 Project Two
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=nadhifxfx&theme=tokyonight)](https://github.com/nadhifxfx/Website-ND10)
