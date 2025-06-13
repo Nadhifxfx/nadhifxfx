@@ -38,29 +38,64 @@
 
 ---
 ## 🚀 Current Projects
-<!-- Divider Line -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00bfff&height=2" alt="divider" />
-</p>
+<div align="center">
 
-<!-- Project Showcase -->
+<table>
+<tr>
+<td width="50%">
+
+### 🌟 Project One
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=nadhifxfx&theme=tokyonight)](https://github.com/Nadhifxfx/Web-Sahira)
+
+🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3
+✨ **Features:** Responsive layout, YouTube API integration for dynamic video content, Clean code structure
+
+</td>
+<td width="50%">
+
+### 🎯 Project Two
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=nadhifxfx&theme=tokyonight)](https://github.com/Nadhifxfx/Website-ND10)
+
+🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3
+✨ **Features:** RResponsive layout, YouTube API integration for dynamic video content, Clean code structure
+</td>
+</tr>
+</table>
+
+</div>
+
 <div align="center">
 
 <table>
   <tr>
-    <!-- Project Card -->
-    <td width="400" align="center">
-      <a href="https://github.com/faulnam/astro-ecommerce" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=astro-ecommerce&theme=tokyonight" alt="Astro E-Commerce" />
+    <!-- Project One -->
+    <td width="50%" align="center">
+      <h3>🌟 Project One</h3>
+      <a href="https://github.com/Nadhifxfx/Web-Sahira" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nadhifxfx&repo=Web-Sahira&theme=tokyonight" alt="Web-Sahira Repo Card" />
       </a>
-      <br />
-      <strong>🛍️ Astro E-Commerce</strong><br />
-      <sub>Modern online store built with Astro and TailwindCSS.</sub>
+      <p>
+        🛠️ <strong>Tech Stack:</strong> HTML5, CSS3, JavaScript, YouTube Data API v3 <br>
+        ✨ <strong>Features:</strong> Responsive layout, YouTube integration, Clean code structure
+      </p>
+    </td>
+
+    <!-- Project Two -->
+    <td width="50%" align="center">
+      <h3>🎯 Project Two</h3>
+      <a href="https://github.com/Nadhifxfx/Website-ND10" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nadhifxfx&repo=Website-ND10&theme=tokyonight" alt="Website-ND10 Repo Card" />
+      </a>
+      <p>
+        🛠️ <strong>Tech Stack:</strong> HTML5, CSS3, JavaScript, YouTube Data API v3 <br>
+        ✨ <strong>Features:</strong> Responsive layout, YouTube integration, Clean code structure
+      </p>
     </td>
   </tr>
 </table>
 
 </div>
+
 
 
 
