@@ -50,21 +50,25 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=Website-ND10&theme=tokyonight" />
 </a> 
   
-🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3 <br>
-✨ **Features:** Responsive layout, Clean code structure <br>
+🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3
+✨ **Features:** Responsive layout, Clean code structure 
 
-</td>
+<td width="50%">
 
 ### 🎯 Project Two
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=nadhifxfx&theme=tokyonight)](https://github.com/nadhifxfx/Website-ND10)
+<div align="center">
+<a href="https://github.com/nadhifxfx/Website-ND10/" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=Website-ND10&theme=tokyonight" />
+</a> 
+  
+🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3
+✨ **Features:** Responsive layout, Clean code structure 
 
-🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3 <br>
-✨ **Features:** RResponsive layout, YouTube API integration, Clean code structure<br>
+<td width="50%">
 
 </td>
 </tr>
 </table>
-
 
 </div>
 
