@@ -1,5 +1,4 @@
 <h1 align="center">Hello World 👋, I'm Nadhif Fathur Rahman</h1>
-<p align="center"><strong><span style="font-size: 18px;">"Not just visuals – a way of thinking"</span></strong></p>
 
 
 
