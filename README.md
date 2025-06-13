@@ -52,9 +52,10 @@
 <div align="center">
 <a href="https://github.com/nadhifxfx/Website-ND10/" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=Website-ND10&theme=tokyonight" />
+</a> 
   
-<sub> 🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3 </sub><br>
-<sub ✨ **Features:** RResponsive layout, YouTube API integration, Clean code structure</sub><br>
+🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3 <br>
+✨ **Features:** RResponsive layout, YouTube API integration, Clean code structure <br>
 
 </td>
 <td width="50%">
