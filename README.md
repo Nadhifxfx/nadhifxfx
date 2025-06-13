@@ -55,7 +55,7 @@
 </a> 
   
 🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3 <br>
-✨ **Features:** RResponsive layout, YouTube API integration, Clean code structure <br>
+✨ **Features:** Responsive layout, Clean code structure <br>
 
 </td>
 <td width="50%">
