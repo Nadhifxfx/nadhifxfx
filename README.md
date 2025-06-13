@@ -46,9 +46,6 @@
 
 ### 🎯 Project One
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=nadhifxfx&theme=tokyonight)](https://github.com/nadhifxfx/Website-ND10)
-<br/>
-      <b>📆 FullCalendar</b><br/>
-      <sub>Integrasi kalender interaktif berbasis JavaScript.</sub>
 🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3 <br>
 ✨ **Features:** RResponsive layout, YouTube API integration, Clean code structure<br>
 
