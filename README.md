@@ -45,33 +45,25 @@
 <td width="50%">
 
 ### 🌟 Project One
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Nadhifxfx/Web-Sahira" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nadhifxfx&repo=Web-Sahira&theme=tokyonight" alt="Web-Sahira Repo Card" />
-      </a>
-       <sub>Toko online modern dengan Astro + TailwindCSS.</sub>
-      <p>
-        🛠️ <strong>Tech Stack:</strong> HTML5, CSS3, JavaScript, YouTube Data API v3 <br>
-        ✨ <strong>Features:</strong> Responsive layout, YouTube integration, Clean code structure
-      </p>
-    </td>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnadhifxfx&repo=nadhifxfx&theme=tokyonight)](https://github.com/nadhifxfx/ND10-Website)
 
-   
-</table>
+🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3 <br>
+✨ **Features:** RResponsive layout, YouTube API integration for dynamic video content, Clean code structure<br>
 
 </td>
 <td width="50%">
 
 ### 🎯 Project Two
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=nadhifxfx&theme=tokyonight)](https://github.com/Nadhifxfx/Website-ND10)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wondrv&repo=wondrv&theme=tokyonight)](https://github.com/wondrv/wondrv)
 
-🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3
-✨ **Features:** RResponsive layout, YouTube API integration for dynamic video content, Clean code structure
+**Tech Stack:** Python, Django, PostgreSQL  
+🔥 **Features:** Machine Learning, Data visualization  
+⭐ **Highlights:** Scalable architecture, AI integration
+
 </td>
 </tr>
 </table>
+
 
 </div>
 
