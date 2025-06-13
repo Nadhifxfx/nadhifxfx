@@ -44,26 +44,33 @@
 <tr>
 <td width="50%">
 
-### 🎯 Project One
 <div align="center">
-<a href="https://github.com/nadhifxfx/Website-ND10/" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=Website-ND10&theme=tokyonight" />
-</a> 
-  
-<b>✨ **Features:** Responsive layout, Clean code structure </b><br/>
-<td width="50%">
 
-### 🎯 Project Two
-<div align="center">
-<a href="https://github.com/nadhifxfx/Website-ND10/" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=Website-ND10&theme=tokyonight" />
-</a> 
-  
-🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3
-✨ **Features:** Responsive layout, Clean code structure 
-
-</td>
-</tr>
+<table>
+  <tr>
+    <!-- Project One -->
+    <td width="50%" align="center">
+      <h3>🌟 Project One</h3>
+      <a href="https://github.com/Nadhifxfx/Web-Sahira" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nadhifxfx&repo=Web-Sahira&theme=tokyonight" alt="Web-Sahira Repo Card" />
+      </a>
+      <p>
+        🛠️ <strong>Tech Stack:</strong> HTML5, CSS3, JavaScript, YouTube Data API v3 <br>
+        ✨ <strong>Features:</strong> Responsive layout, YouTube integration, Clean code structure
+      </p>
+    </td>
+    <!-- Project Two -->
+    <td width="50%" align="center">
+      <h3>🎯 Project Two</h3>
+      <a href="https://github.com/Nadhifxfx/Website-ND10" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nadhifxfx&repo=Website-ND10&theme=tokyonight" alt="Website-ND10 Repo Card" />
+      </a>
+      <p>
+        🛠️ <strong>Tech Stack:</strong> HTML5, CSS3, JavaScript, YouTube Data API v3 <br>
+        ✨ <strong>Features:</strong> Responsive layout, YouTube integration, Clean code structure
+      </p>
+    </td>
+  </tr>
 </table>
 
 </div>
