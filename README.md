@@ -44,21 +44,22 @@
 <tr>
 <td width="50%">
 
-### 🌟 Project One
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnadhifxfx&repo=nadhifxfx&theme=tokyonight)](https://github.com/nadhifxfx/ND10-Website)
-
+### 🎯 Project One
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=nadhifxfx&theme=tokyonight)](https://github.com/nadhifxfx/Website-ND10)
+<br/>
+      <b>📆 FullCalendar</b><br/>
+      <sub>Integrasi kalender interaktif berbasis JavaScript.</sub>
 🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3 <br>
-✨ **Features:** RResponsive layout, YouTube API integration for dynamic video content, Clean code structure<br>
+✨ **Features:** RResponsive layout, YouTube API integration, Clean code structure<br>
 
 </td>
 <td width="50%">
 
 ### 🎯 Project Two
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wondrv&repo=wondrv&theme=tokyonight)](https://github.com/wondrv/wondrv)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=nadhifxfx&theme=tokyonight)](https://github.com/nadhifxfx/Website-ND10)
 
-**Tech Stack:** Python, Django, PostgreSQL  
-🔥 **Features:** Machine Learning, Data visualization  
-⭐ **Highlights:** Scalable architecture, AI integration
+🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3 <br>
+✨ **Features:** RResponsive layout, YouTube API integration, Clean code structure<br>
 
 </td>
 </tr>
