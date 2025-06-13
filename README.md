@@ -50,9 +50,9 @@
 </p>
 
 <div align="center">
-<a href="https://faulnam.github.io/fullcalendar/" target="_blank">
+<a href="https://github.com/nadhifxfx/Website-ND10/" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=fullcalendar&theme=tokyonight" />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=nadhifxfx&theme=tokyonight)](https://github.com/nadhifxfx/Website-ND10)
+  
 🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3 <br>
 ✨ **Features:** RResponsive layout, YouTube API integration, Clean code structure<br>
 
