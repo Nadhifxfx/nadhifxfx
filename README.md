@@ -46,22 +46,19 @@
 <td width="50%">
 
 ### 🌟 Project One
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wondrv&repo=wondrv&theme=tokyonight)](https://github.com/Nadhifxfx/Web-Sahira)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=nadhifxfx&theme=tokyonight)](https://github.com/Nadhifxfx/Web-Sahira)
 
-YouTube Data API v3
 🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3
-✨ **Features:** RResponsive layout, YouTube API integration for dynamic video content, Clean code structure
+✨ **Features:** Responsive layout, YouTube API integration for dynamic video content, Clean code structure
 
 </td>
 <td width="50%">
 
 ### 🎯 Project Two
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wondrv&repo=wondrv&theme=tokyonight)](https://github.com/Nadhifxfx/Website-ND10)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=nadhifxfx&theme=tokyonight)](https://github.com/Nadhifxfx/Website-ND10)
 
-**Tech Stack:** Python, Django, PostgreSQL  
-🔥 **Features:** Machine Learning, Data visualization  
-⭐ **Highlights:** Scalable architecture, AI integration
-
+🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3
+✨ **Features:** RResponsive layout, YouTube API integration for dynamic video content, Clean code structure
 </td>
 </tr>
 </table>
