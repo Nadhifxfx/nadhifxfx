@@ -38,32 +38,32 @@
 
 ---
 ## 🚀 Current Projects
+<!-- Divider Line -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00bfff&height=2" alt="divider" />
+</p>
 
+<!-- Project Showcase -->
 <div align="center">
 
 <table>
-<tr>
-<td width="50%">
-
-### 🌟 Project One
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=nadhifxfx&theme=tokyonight)](https://github.com/Nadhifxfx/Web-Sahira)
-
-🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3
-✨ **Features:** Responsive layout, YouTube API integration for dynamic video content, Clean code structure
-
-</td>
-<td width="50%">
-
-### 🎯 Project Two
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=nadhifxfx&theme=tokyonight)](https://github.com/Nadhifxfx/Website-ND10)
-
-🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, YouTube Data API v3
-✨ **Features:** RResponsive layout, YouTube API integration for dynamic video content, Clean code structure
-</td>
-</tr>
+  <tr>
+    <!-- Project Card -->
+    <td width="400" align="center">
+      <a href="https://github.com/faulnam/astro-ecommerce" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=astro-ecommerce&theme=tokyonight" alt="Astro E-Commerce" />
+      </a>
+      <br />
+      <strong>🛍️ Astro E-Commerce</strong><br />
+      <sub>Modern online store built with Astro and TailwindCSS.</sub>
+    </td>
+  </tr>
 </table>
 
 </div>
+
+
+
 
 ## 📊 GitHub Stats:
 <!-- Top Languages -->
