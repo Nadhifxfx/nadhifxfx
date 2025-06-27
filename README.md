@@ -33,7 +33,7 @@
 
 ### 📬 Let's Connect
 
-- 🌐 Portfolio: https://nadhifxfx.vercel.app
+- 🌐 Website: https://nadhifxfx.vercel.app
 - 📧 Contact: https://bio.site/nadhifxfx
 
 ---
