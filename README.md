@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Informatics Engineering<br>
+- 🎓 Informatic<br>
 - ⚡️ Strive for more<br>
 - 💡 Created by the vision of believity<br>
 - 🎨 I love turning ideas into interactive digital experiences <br>
