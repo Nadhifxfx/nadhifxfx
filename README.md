@@ -47,7 +47,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Nadhifxfx/Web-Aksara-Harapan">
-        <h3>Web-Aksara-Harapan</h3>
+        <h3>Website Aksara Harapan</h3>
       </a>
       <p>Web app deployment for Aksara Harapan.</p>
       <p>
@@ -79,7 +79,7 @@
       <a href="https://github.com/RehanZacky/webMTS">
         <h3>Website Yayasan</h3>
       </a>
-      <p>Web-based project for Yayasan ROudlotul Qur'an Az Zuhri.</p>
+      <p>Web-based project for Yayasan Roudlotul Qur'an Az Zuhri.</p>
       <p>
         <img alt="Top language" src="https://img.shields.io/github/languages/top/Nadhifxfx/Website-Yayasan?style=flat" />
         <img alt="Stars" src="https://img.shields.io/github/stars/Nadhifxfx/Website-Yayasan?style=flat" />
@@ -93,7 +93,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Nadhifxfx/Mobile-Banking">
-        <h3>Mobile-Banking</h3>
+        <h3>Mobile Banking</h3>
       </a>
       <p>End-to-end Mobile Banking (BANK SAE) with a 3-layer architecture (Flutter app, Node.js/Express middleware, FastAPI service layer).</p>
       <p>
