@@ -81,9 +81,9 @@
       </a>
       <p>Web-based project for Yayasan ROudlotul Qur'an Az Zuhri.</p>
       <p>
-        <img alt="Top language" src="https://img.shields.io/github/languages/top/Nadhifxfx/webMTS?style=flat" />
-        <img alt="Stars" src="https://img.shields.io/github/stars/Nadhifxfx/webMTS?style=flat" />
-        <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/webMTS?style=flat" />
+        <img alt="Top language" src="https://img.shields.io/github/languages/top/Nadhifxfx/Website-Yayasan?style=flat" />
+        <img alt="Stars" src="https://img.shields.io/github/stars/Nadhifxfx/Website-Yayasan?style=flat" />
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/Website-Yayasan?style=flat" />
       </p>
       <p>
         <a href="https://github.com/RehanZacky/webMTS">Repo</a> · <a href="https://mtstahfidhroudlotulquran.sch.id/">Live Demo</a>
@@ -102,7 +102,7 @@
         <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/Mobile-Banking?style=flat" />
       </p>
       <p>
-        <a href="https://github.com/Nadhifxfx/Mobile-Banking">Repo</a> · &mdash;
+        <a href="https://github.com/Nadhifxfx/Mobile-Banking">Repo</a> · 
       </p>
     </td>
     <td width="50%" valign="top">
@@ -116,7 +116,7 @@
         <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/Website-Desa-Wonokarang?style=flat" />
       </p>
       <p>
-        <a href="https://github.com/AchmadMuafiTaufiqurrochman/KKN-TEMATIK-ASIK">Repo</a> · <a href="https://wonokarang.projekfilkom.com/">Live Demo</a> &mdash;
+        <a href="https://github.com/AchmadMuafiTaufiqurrochman/KKN-TEMATIK-ASIK">Repo</a> · <a href="https://wonokarang.projekfilkom.com/">Live Demo</a> 
       </p>
     </td>
   </tr>
@@ -133,11 +133,6 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=nadhifxfx&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nadhifxfx&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadhifxfx&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
