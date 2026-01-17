@@ -76,17 +76,17 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Nadhifxfx/Geoquest">
-        <h3>WebMts</h3>
+      <a href="https://github.com/RehanZacky/webMTS">
+        <h3>Website Yayasan</h3>
       </a>
-      <p>Web-based project deployed on Vercel.</p>
+      <p>Web-based project for Yayasan ROudlotul Qur'an Az Zuhri.</p>
       <p>
-        <img alt="Top language" src="https://img.shields.io/github/languages/top/Nadhifxfx/Geoquest?style=flat" />
-        <img alt="Stars" src="https://img.shields.io/github/stars/Nadhifxfx/Geoquest?style=flat" />
-        <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/Geoquest?style=flat" />
+        <img alt="Top language" src="https://img.shields.io/github/languages/top/Nadhifxfx/webMTS?style=flat" />
+        <img alt="Stars" src="https://img.shields.io/github/stars/Nadhifxfx/webMTS?style=flat" />
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/webMTS?style=flat" />
       </p>
       <p>
-        <a href="https://github.com/Nadhifxfx/Geoquest">Repo</a> · <a href="https://geoquest-peach.vercel.app">Live Demo</a>
+        <a href="https://github.com/RehanZacky/webMTS">Repo</a> · <a href="https://mtstahfidhroudlotulquran.sch.id/">Live Demo</a>
       </p>
     </td>
   </tr>
@@ -116,7 +116,7 @@
         <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/Website-Desa-Wonokarang?style=flat" />
       </p>
       <p>
-        <a href="https://github.com/Nadhifxfx/Website-Desa-Wonokarang">Repo</a> · &mdash;
+        <a href="https://github.com/AchmadMuafiTaufiqurrochman/KKN-TEMATIK-ASIK">Repo</a> · <a href="https://wonokarang.projekfilkom.com/">Live Demo</a> &mdash;
       </p>
     </td>
   </tr>
@@ -137,16 +137,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=nadhifxfx&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadhifxfx&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nadhifxfx&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nadhifxfx&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=nadhifxfx&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </p>
 
 <picture>
