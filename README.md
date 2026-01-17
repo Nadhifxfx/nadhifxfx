@@ -33,7 +33,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Nadhifxfx/My-Website">
-        <h3>My-Website</h3>
+        <h3>My Website</h3>
       </a>
       <p>Personal portfolio website.</p>
       <p>
@@ -63,7 +63,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Nadhifxfx/Website-NDcomps10">
-        <h3>Website-NDcomps10</h3>
+        <h3>Website NDcomps10</h3>
       </a>
       <p>Website project deployed on Vercel.</p>
       <p>
@@ -102,12 +102,12 @@
         <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/Mobile-Banking?style=flat" />
       </p>
       <p>
-        <a href="https://github.com/Nadhifxfx/Mobile-Banking">Repo</a> · 
+        <a href="https://github.com/Nadhifxfx/Mobile-Banking">Repo</a>
       </p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Nadhifxfx/Website-Desa-Wonokarang">
-        <h3>Website-Desa-Wonokarang</h3>
+        <h3>Website Desa Wonokarang</h3>
       </a>
       <p>Village profile website for Desa Wonokarang.</p>
       <p>
