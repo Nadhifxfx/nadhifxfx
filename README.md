@@ -29,9 +29,9 @@
 
 ## ✨ Featured Projects
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td>
+    <td width="50%" valign="top">
       <a href="https://github.com/Nadhifxfx/My-Website">
         <h3>My-Website</h3>
       </a>
@@ -42,10 +42,10 @@
         <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/My-Website?style=flat" />
       </p>
       <p>
-        <a href="https://nadhifxfx.vercel.app/">Live Demo</a>
+        <a href="https://github.com/Nadhifxfx/My-Website">Repo</a> · <a href="https://nadhifxfx.vercel.app/">Live Demo</a>
       </p>
     </td>
-    <td>
+    <td width="50%" valign="top">
       <a href="https://github.com/Nadhifxfx/Web-Aksara-Harapan">
         <h3>Web-Aksara-Harapan</h3>
       </a>
@@ -56,12 +56,12 @@
         <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/Web-Aksara-Harapan?style=flat" />
       </p>
       <p>
-        <a href="https://web-aksara-harapan.vercel.app">Live Demo</a>
+        <a href="https://github.com/Nadhifxfx/Web-Aksara-Harapan">Repo</a> · <a href="https://web-aksara-harapan.vercel.app">Live Demo</a>
       </p>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%" valign="top">
       <a href="https://github.com/Nadhifxfx/Website-NDcomps10">
         <h3>Website-NDcomps10</h3>
       </a>
@@ -72,10 +72,10 @@
         <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/Website-NDcomps10?style=flat" />
       </p>
       <p>
-        <a href="https://ndcomps10.vercel.app/">Live Demo</a>
+        <a href="https://github.com/Nadhifxfx/Website-NDcomps10">Repo</a> · <a href="https://ndcomps10.vercel.app/">Live Demo</a>
       </p>
     </td>
-    <td>
+    <td width="50%" valign="top">
       <a href="https://github.com/Nadhifxfx/Geoquest">
         <h3>WebMts</h3>
       </a>
@@ -86,12 +86,12 @@
         <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/Geoquest?style=flat" />
       </p>
       <p>
-        <a href="https://geoquest-peach.vercel.app">Live Demo</a>
+        <a href="https://github.com/Nadhifxfx/Geoquest">Repo</a> · <a href="https://geoquest-peach.vercel.app">Live Demo</a>
       </p>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%" valign="top">
       <a href="https://github.com/Nadhifxfx/Mobile-Banking">
         <h3>Mobile-Banking</h3>
       </a>
@@ -101,8 +101,11 @@
         <img alt="Stars" src="https://img.shields.io/github/stars/Nadhifxfx/Mobile-Banking?style=flat" />
         <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/Mobile-Banking?style=flat" />
       </p>
+      <p>
+        <a href="https://github.com/Nadhifxfx/Mobile-Banking">Repo</a> · &mdash;
+      </p>
     </td>
-    <td>
+    <td width="50%" valign="top">
       <a href="https://github.com/Nadhifxfx/Website-Desa-Wonokarang">
         <h3>Website-Desa-Wonokarang</h3>
       </a>
@@ -111,6 +114,9 @@
         <img alt="Top language" src="https://img.shields.io/github/languages/top/Nadhifxfx/Website-Desa-Wonokarang?style=flat" />
         <img alt="Stars" src="https://img.shields.io/github/stars/Nadhifxfx/Website-Desa-Wonokarang?style=flat" />
         <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/Website-Desa-Wonokarang?style=flat" />
+      </p>
+      <p>
+        <a href="https://github.com/Nadhifxfx/Website-Desa-Wonokarang">Repo</a> · &mdash;
       </p>
     </td>
   </tr>
@@ -127,10 +133,20 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img alt="Followers" src="https://img.shields.io/github/followers/Nadhifxfx?label=Followers&style=flat" />
-  <img alt="Stars" src="https://img.shields.io/github/stars/Nadhifxfx?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=flat" />
-  <img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNadhifxfx&query=%24.public_repos&label=Public%20Repos&style=flat" />
+![](https://github-readme-stats.vercel.app/api?username=nadhifxfx&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nadhifxfx&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadhifxfx&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nadhifxfx&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nadhifxfx&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=nadhifxfx&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </p>
 
 <picture>
