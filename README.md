@@ -33,16 +33,28 @@
   <tr>
     <td>
       <a href="https://github.com/Nadhifxfx/My-Website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=My-Website&theme=tokyonight" />
+        <h3>My-Website</h3>
       </a>
+      <p>Personal portfolio website.</p>
+      <p>
+        <img alt="Top language" src="https://img.shields.io/github/languages/top/Nadhifxfx/My-Website?style=flat" />
+        <img alt="Stars" src="https://img.shields.io/github/stars/Nadhifxfx/My-Website?style=flat" />
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/My-Website?style=flat" />
+      </p>
       <p>
         <a href="https://nadhifxfx.vercel.app/">Live Demo</a>
       </p>
     </td>
     <td>
       <a href="https://github.com/Nadhifxfx/Web-Aksara-Harapan">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=Web-Aksara-Harapan&theme=tokyonight" />
+        <h3>Web-Aksara-Harapan</h3>
       </a>
+      <p>Web app deployment for Aksara Harapan.</p>
+      <p>
+        <img alt="Top language" src="https://img.shields.io/github/languages/top/Nadhifxfx/Web-Aksara-Harapan?style=flat" />
+        <img alt="Stars" src="https://img.shields.io/github/stars/Nadhifxfx/Web-Aksara-Harapan?style=flat" />
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/Web-Aksara-Harapan?style=flat" />
+      </p>
       <p>
         <a href="https://web-aksara-harapan.vercel.app">Live Demo</a>
       </p>
@@ -51,16 +63,28 @@
   <tr>
     <td>
       <a href="https://github.com/Nadhifxfx/Website-NDcomps10">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=Website-NDcomps10&theme=tokyonight" />
+        <h3>Website-NDcomps10</h3>
       </a>
+      <p>Website project deployed on Vercel.</p>
+      <p>
+        <img alt="Top language" src="https://img.shields.io/github/languages/top/Nadhifxfx/Website-NDcomps10?style=flat" />
+        <img alt="Stars" src="https://img.shields.io/github/stars/Nadhifxfx/Website-NDcomps10?style=flat" />
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/Website-NDcomps10?style=flat" />
+      </p>
       <p>
         <a href="https://ndcomps10.vercel.app/">Live Demo</a>
       </p>
     </td>
     <td>
       <a href="https://github.com/Nadhifxfx/Geoquest">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=Geoquest&theme=tokyonight" />
+        <h3>Geoquest</h3>
       </a>
+      <p>Web-based project deployed on Vercel.</p>
+      <p>
+        <img alt="Top language" src="https://img.shields.io/github/languages/top/Nadhifxfx/Geoquest?style=flat" />
+        <img alt="Stars" src="https://img.shields.io/github/stars/Nadhifxfx/Geoquest?style=flat" />
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/Geoquest?style=flat" />
+      </p>
       <p>
         <a href="https://geoquest-peach.vercel.app">Live Demo</a>
       </p>
@@ -69,13 +93,25 @@
   <tr>
     <td>
       <a href="https://github.com/Nadhifxfx/Mobile-Banking">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=Mobile-Banking&theme=tokyonight" />
+        <h3>Mobile-Banking</h3>
       </a>
+      <p>Mobile banking UI prototype (Flutter/Dart).</p>
+      <p>
+        <img alt="Top language" src="https://img.shields.io/github/languages/top/Nadhifxfx/Mobile-Banking?style=flat" />
+        <img alt="Stars" src="https://img.shields.io/github/stars/Nadhifxfx/Mobile-Banking?style=flat" />
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/Mobile-Banking?style=flat" />
+      </p>
     </td>
     <td>
       <a href="https://github.com/Nadhifxfx/Restfull-API">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhifxfx&repo=Restfull-API&theme=tokyonight" />
+        <h3>Restfull-API</h3>
       </a>
+      <p>REST API project built with Python.</p>
+      <p>
+        <img alt="Top language" src="https://img.shields.io/github/languages/top/Nadhifxfx/Restfull-API?style=flat" />
+        <img alt="Stars" src="https://img.shields.io/github/stars/Nadhifxfx/Restfull-API?style=flat" />
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/Restfull-API?style=flat" />
+      </p>
     </td>
   </tr>
 </table>
@@ -91,13 +127,10 @@
 ---
 
 ## 📊 GitHub Stats
-<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadhifxfx&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 35%;" />
-</p>
-<!-- Stats dan Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nadhifxfx&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/Nadhifxfx?label=Followers&style=flat" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/Nadhifxfx?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=flat" />
+  <img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNadhifxfx&query=%24.public_repos&label=Public%20Repos&style=flat" />
 </p>
 
 <picture>
