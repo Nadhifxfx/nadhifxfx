@@ -77,7 +77,7 @@
     </td>
     <td>
       <a href="https://github.com/Nadhifxfx/Geoquest">
-        <h3>Geoquest</h3>
+        <h3>WebMts</h3>
       </a>
       <p>Web-based project deployed on Vercel.</p>
       <p>
@@ -95,7 +95,7 @@
       <a href="https://github.com/Nadhifxfx/Mobile-Banking">
         <h3>Mobile-Banking</h3>
       </a>
-      <p>Mobile banking UI prototype (Flutter/Dart).</p>
+      <p>End-to-end Mobile Banking (BANK SAE) with a 3-layer architecture (Flutter app, Node.js/Express middleware, FastAPI service layer).</p>
       <p>
         <img alt="Top language" src="https://img.shields.io/github/languages/top/Nadhifxfx/Mobile-Banking?style=flat" />
         <img alt="Stars" src="https://img.shields.io/github/stars/Nadhifxfx/Mobile-Banking?style=flat" />
@@ -103,14 +103,14 @@
       </p>
     </td>
     <td>
-      <a href="https://github.com/Nadhifxfx/Restfull-API">
-        <h3>Restfull-API</h3>
+      <a href="https://github.com/Nadhifxfx/Website-Desa-Wonokarang">
+        <h3>Website-Desa-Wonokarang</h3>
       </a>
-      <p>REST API project built with Python.</p>
+      <p>Village profile website for Desa Wonokarang.</p>
       <p>
-        <img alt="Top language" src="https://img.shields.io/github/languages/top/Nadhifxfx/Restfull-API?style=flat" />
-        <img alt="Stars" src="https://img.shields.io/github/stars/Nadhifxfx/Restfull-API?style=flat" />
-        <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/Restfull-API?style=flat" />
+        <img alt="Top language" src="https://img.shields.io/github/languages/top/Nadhifxfx/Website-Desa-Wonokarang?style=flat" />
+        <img alt="Stars" src="https://img.shields.io/github/stars/Nadhifxfx/Website-Desa-Wonokarang?style=flat" />
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nadhifxfx/Website-Desa-Wonokarang?style=flat" />
       </p>
     </td>
   </tr>
