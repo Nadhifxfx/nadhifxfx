@@ -107,7 +107,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Nadhifxfx/Website-Desa-Wonokarang">
-        <h3>Website Desa Wonokarang</h3>
+        <h3>Website Desa</h3>
       </a>
       <p>Village profile website for Desa Wonokarang.</p>
       <p>
